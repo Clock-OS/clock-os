@@ -1,2 +1,2 @@
-# clock-os
-The offical github mirror of Clock OS (with source tree)
+# Download
+Wenn sie das Betriebssystem installieren möchten, haben sie zwei möglichkeiten
